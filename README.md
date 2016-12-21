@@ -2,12 +2,12 @@
 
 Created an Albums app using Stephen Grider's React Native tutorial in Udemy.
 
-As you can see, this is my First React Native Project. :)
+Using Android
 
-Android
 ![](http://i.imgur.com/S4E0TTy.png)
 
-IOS
+Using IOS
+
 ![](http://i.imgur.com/AVWXYiX.png)
 
 Amazon:
