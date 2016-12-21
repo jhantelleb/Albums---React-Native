@@ -11,7 +11,8 @@ Using IOS
 ![](http://i.imgur.com/AVWXYiX.png)
 
 Amazon:
-![](blob:http://imgur.com/f6f239f0-8d6c-4c8f-8892-cc99df3b0bd9)
+
+![](http://imgur.com/f6f239f0-8d6c-4c8f-8892-cc99df3b0bd9)
 
 Topics discussed and used:
 React Native setup
