@@ -1,4 +1,4 @@
-# FirstReactNativeProject
+# Albums
 
 Created an Albums app using Stephen Grider's React Native tutorial in Udemy.
 
