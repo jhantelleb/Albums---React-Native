@@ -15,12 +15,12 @@ Amazon:
 ![](http://i.imgur.com/s0roEn1.png)
 
 Topics discussed and used:
-React Native setup
-ESLint setup
-Components, Props, State
-Styling using Flexbox
-Card/Card Section
-ScrollView
-HTTP Request using axios
-Button, Touchable Properties
-Linking to Amazon website
+- React Native setup /n
+- ESLint setup
+- Components, Props, State
+- Styling using Flexbox
+- Card/Card Section
+- ScrollView
+- HTTP Request using axios
+- Button, Touchable Properties
+- Linking to Amazon website
